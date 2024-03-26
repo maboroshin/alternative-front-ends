@@ -137,6 +137,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
+- [Pipeline](https://github.com/Tubefeeder/Tubefeeder): A Youtube, Lbry and Peertube client made in libadwaita
+
 ### YouTube Music
 
 - [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
