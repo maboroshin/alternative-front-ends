@@ -30,7 +30,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
-- [Porn](#porn)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -173,9 +172,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reddit
 
-- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  - Official instance: https://libreddit.spike.codes
-  - Public instances: https://github.com/spikecodes/libreddit#instances
+- [Libreddit](https://github.com/libreddit/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+  - Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
@@ -240,16 +238,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
 
-- [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
+- [Omgur](https://github.com/geraldwuhoo/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
   - No JavaScript or ads
   - All requests go through the Omgur backend, client never talks to Imgur
   - Prevents Imgur from tracking your IP or JavaScript fingerprint
   - Lightweight
   - Self-hostable
-  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/omgur
 
-- [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
-  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/imgrs
+- [imgrs](https://github.com/geraldwuhoo/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
 
 ### Spotify
 
@@ -270,8 +266,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui): Spotify client for the terminal written in Rust
 
 - [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
-
-- [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
 ### Apple Music
 
@@ -294,6 +288,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+- [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
 
 ### Google Search
 
@@ -314,8 +309,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [lingva.ml](https://lingva.ml)
   - Public instances: https://github.com/TheDavidDelta/lingva-translate#instances
 
-- [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
-  - Official instance: [simplytranslate.org](https://simplytranslate.org)
+- [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
   - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
 
 - [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
@@ -395,10 +389,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Telegram
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
-
-### Porn
-
-- [PornInvidious](https://github.com/Simple-Web-Project/PornInvidious): Simple JavaScript-Free Frontend for xvideos.com
 
 ### Hacker News
 
